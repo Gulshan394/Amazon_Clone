@@ -1,5 +1,5 @@
 # Amazon-Clone Project
 
-This project is a simple and intuitive calculator application capable of performing basic arithmetic operations. It is designed with user experience in mind, providing a clean and responsive interface.
+An Amazon clone built using modern web technologies. This project replicates core functionalities of the Amazon e-commerce platform, including product listings, user authentication, shopping cart, and order management.
 
 ![Screenshot (77)](https://github.com/user-attachments/assets/0ced3282-77b2-4d04-9a60-831ff6b05c97)
